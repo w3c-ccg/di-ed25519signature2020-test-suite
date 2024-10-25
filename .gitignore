@@ -18,3 +18,4 @@ reports/**
 credentials/*.json
 .vscode
 .localImplementationsConfig.cjs
+localConfig.cjs
