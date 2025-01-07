@@ -1,4 +1,5 @@
 {
+  "group": "vc",
   "specStatus": "base",
   "shortName": "di-ed25519signature2020-test-suite",
   "subtitle": "Interoperability Report for Ed25519",
@@ -6,14 +7,10 @@
   "edDraftURI": "https://w3c.github.io/vc-di-ed25519signature2020-test-suite",
   "doJsonLd": true,
   "includePermalinks": false,
-  "editors": [
-    { "name": "Andrew Jones", "url": "https://github.com/aljones15",
-      "company": "Digital Bazaar, Inc.", "companyURL": "https://digitalbazaar.com/" }
-  ],
   "authors": [
     { "name": "Andrew Jones", "url": "https://github.com/aljones15",
       "company": "Digital Bazaar, Inc.", "companyURL": "https://digitalbazaar.com/" },
-    { "name": "Manu Sporny", "url": "https://manu.sporny.org/",
+    { "name": "Tashi D. Gyeltshen", "url": "https://github.com/jsAssassin",
       "company": "Digital Bazaar, Inc.", "companyURL": "https://digitalbazaar.com/" }
     ]
 }
